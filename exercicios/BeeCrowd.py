@@ -1,4 +1,4 @@
-#Ecercício número 1
+#Exercício número 1
 
 print ("Hello World!!!")
 
